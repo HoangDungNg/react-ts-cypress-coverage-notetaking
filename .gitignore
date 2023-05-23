@@ -8,8 +8,11 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+cypress-coverage
 dist
 dist-ssr
+instrumented
+.nyc_output
 *.local
 
 # Editor directories and files
